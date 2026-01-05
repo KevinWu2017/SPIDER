@@ -1,0 +1,9 @@
+[submodule "third_party/argparse"]
+	path = third_party/argparse
+	url = https://github.com/p-ranav/argparse.git
+[submodule "third_party/LoRAStencil"]
+	path = third_party/LoRAStencil
+	url = https://github.com/KevinWu2017/LoRAStencil.git
+[submodule "third_party/ConvStencil"]
+	path = third_party/ConvStencil
+	url = https://github.com/KevinWu2017/ConvStencil.git

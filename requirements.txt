@@ -1,0 +1,4 @@
+cmake
+numpy
+pandas
+matplotlib

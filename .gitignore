@@ -1,0 +1,7 @@
+.vscode/
+build/
+
+outputs/*
+!outputs/TCStencil_best_A100.csv
+
+spider_venv
