@@ -1,7 +1,6 @@
 # SPIDER
 
-> SPIDER: Unleashing Sparse Tensor Cores for Stencil
-Computation via Strided Swapping (PPoPP'26)
+> SPIDER: Unleashing Sparse Tensor Cores for Stencil Computation via Strided Swapping (PPoPP'26)
 
 ## Abstract
 
@@ -24,7 +23,7 @@ You can use the `Dockerfile` to quickly prepare the environment.
 
 First clone the code repository by:
 ```shell
-git clone -b PPoPP_AE --recurse-submodules https://github.com/guqiqi/SPTCCompute.git SPIDER
+git clone --recurse-submodules https://github.com/KevinWu2017/SPIDER.git SPIDER
 cd SPIDER
 ```
 
