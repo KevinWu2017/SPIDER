@@ -91,14 +91,12 @@ If you have any questions, please send an email to the author at qiqi.gu@sjtu.ed
 If you use our code, please cite our paper:
 
 ```bibtex
-@misc{gu2025sptcstencilusingsparsetensor,
-      title={SPTCStencil: Using Sparse Tensor Cores for Stencil Computation}, 
-      author={Qiqi GU and Chenpeng Wu and Heng Shi and Jianguo Yao},
-      year={2025},
-      eprint={2506.22035},
-      archivePrefix={arXiv},
-      primaryClass={cs.DC},
-      url={https://arxiv.org/abs/2506.22035}, 
+@inproceedings{spider,
+  title={SPIDER: Unleashing Sparse Tensor Cores for Stencil Computation via Strided Swapping},
+  author={Gu, Qiqi and Wu, Chenpeng and Shi, Heng and Yao, Jianguo},
+  booktitle={Proceedings of the 31st ACM SIGPLAN Annual Symposium on Principles and Practice of Parallel Programming},
+  pages={218--231},
+  year={2026}
 }
 ```
 
